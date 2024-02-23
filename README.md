@@ -1,1 +1,1 @@
-![:)](https://github-readme-stats.vercel.app/api/top-langs/?username=eriritarded)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriritarded)
